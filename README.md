@@ -1,2 +1,2 @@
-# Cyber-Archive
-A curated collection of cybersecurity tools, scripts, and resources. This repository serves as a hub for projects ranging from offensive security tools to defensive mechanisms, cryptographic utilities, and educational resources for aspiring security professionals. Explore and contribute to enhance the world of secure computing.
+# Recon Automation For Web Testing
+Recon Automation Tool is a Python-based toolkit designed for web penetration testing and reconnaissance. It features IP and port scanning, barcode and QR code generation, password and wordlist creation, phone number information gathering, subdomain checking, and even a DDoS attack simulation tool. Ideal for security professionals, this tool streamlines the process of identifying vulnerabilities and gathering valuable information for pentesting.
